@@ -134,7 +134,7 @@ body{
 
 .grid{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
 }
 
@@ -257,5 +257,6 @@ header.topbar .brand {
   position: relative;
   z-index: 0;
 }
+
 
 
