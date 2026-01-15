@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catálogo Demos - Audi Center San Pedro</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">
+        <img src="img/logoaudisanpedro.png" alt="Audi Center San Pedro">
+      </div>
+      <div>
+        <div class="title">Catálogo de Demos</div>
+        <div class="subtitle">Audi Center San Pedro</div>
+      </div>
+    </div>
+
+    <div class="top-actions">
+      <button id="btnInicio" class="btn secondary">Modelos</button>
+      <button id="btnRecargar" class="btn">Recargar</button>
+    </div>
+  </header>
+
+
+  <main class="container">
+    <!-- Vista: Modelos -->
+    <section id="vistaModelos">
+      <div class="toolbar">
+        <h2>Modelos</h2>
+        <input id="buscadorModelos" class="input" placeholder="Buscar modelo (ej. Q5, A1, e-tron)..." />
+      </div>
+
+      <div id="gridModelos" class="grid"></div>
+      <div id="estadoModelos" class="muted"></div>
+    </section>
+
+    <!-- Vista: Unidades -->
+    <section id="vistaUnidades" class="hidden">
+      <div class="toolbar">
+        <div>
+          <h2 id="tituloUnidades">Unidades</h2>
+          <div id="subtituloUnidades" class="muted"></div>
+        </div>
+
+        <div class="filters">
+          <input id="buscadorUnidades" class="input" placeholder="Buscar (chasis, color, año, km)..." />
+          <select id="filtroTipo" class="select">
+            <option value="">Tipo (todos)</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="gridUnidades" class="grid unidades"></div>
+      <div id="estadoUnidades" class="muted"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    Actualización: <span id="timestamp">-</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
