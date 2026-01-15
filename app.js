@@ -53,7 +53,7 @@ function rutaImagenModelo(modelo){
 async function cargarDatos(){
   try{
     estadoModelos.textContent = "Cargando datos...";
-    const res = await fetch("../demos.json?ts=" + Date.now());
+    const res = await fetch("demos.json?ts=" + Date.now());
     DATA = await res.json();
 
     document.getElementById("timestamp").textContent =
@@ -175,3 +175,4 @@ function renderUnidades(){
 
 // Arranque
 cargarDatos();
+
