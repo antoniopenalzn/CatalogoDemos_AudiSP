@@ -37,10 +37,10 @@ body{
 }
 
 .container{
-  max-width: 1100px;
+  max-width: 1150px;   /* 👈 MÁS AIRE */
   margin: 0 auto;
   padding: 18px;
-  padding-top: 75px;   /* ajusta 80–110 según tu barra */
+  padding-top: 75px;   /* este está perfecto */
 }
 
 
