@@ -1,11 +1,11 @@
 {
-  "total_unidades": 31,
+  "total_unidades": 32,
   "total_modelos": 10,
   "modelos": {
     "A1": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi A1 Sportback 30 TFSI  85(116) hp S tronic Cool",
         "modelo_general": "A1",
         "chasis": "WAUREAGB6RR010656",
@@ -14,7 +14,7 @@
         "color": "Plata Tausilber Metálico"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A1 Sportback 30 TFSI  85(116) hp S tronic Ego",
         "modelo_general": "A1",
@@ -24,8 +24,8 @@
         "color": "Gris Manhattan metalizado"
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi A1 Sportback 35 TFSI  110(150) hp S tronic Black Ego Edition",
         "modelo_general": "A1",
         "chasis": "WAURKAGB6SR001325",
@@ -34,8 +34,8 @@
         "color": "Blanco Glaciar Perla"
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi A1 Sportback 35 TFSI  110(150) hp S tronic Black Ego Edition",
         "modelo_general": "A1",
         "chasis": "WAURKAGB7SR002077",
@@ -46,8 +46,8 @@
     ],
     "A3": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Dynamic",
         "modelo_general": "A3",
         "chasis": "WAUAYEGY0SA052485",
@@ -56,8 +56,8 @@
         "color": "Blanco Arkona"
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Dynamic",
         "modelo_general": "A3",
         "chasis": "WAUAYEGY4SA046558",
@@ -66,7 +66,7 @@
         "color": "Verde Distrito Metalizado"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Dynamic",
         "modelo_general": "A3",
@@ -76,7 +76,7 @@
         "color": "Gris Flecha Perla"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Select",
         "modelo_general": "A3",
@@ -86,7 +86,7 @@
         "color": "Gris Manhattan metalizado"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Select",
         "modelo_general": "A3",
@@ -96,7 +96,7 @@
         "color": "Rojo Progresivo Metalizado"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A3 Sedan TFSI  110 kW tiptronic S line",
         "modelo_general": "A3",
@@ -106,7 +106,7 @@
         "color": "Blanco Arkona"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A3 Sportback TFSI  110 kW tiptronic Dynamic",
         "modelo_general": "A3",
@@ -118,8 +118,8 @@
     ],
     "A5": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic S line",
         "modelo_general": "A5",
         "chasis": "WAUGFFFU5SN055329",
@@ -128,7 +128,7 @@
         "color": "Gris Daytona efecto Perla"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic S line",
         "modelo_general": "A5",
@@ -138,7 +138,7 @@
         "color": "Gris Daytona efecto Perla"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic Select",
         "modelo_general": "A5",
@@ -148,7 +148,7 @@
         "color": "Plata Florete metalizado"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic Select",
         "modelo_general": "A5",
@@ -160,7 +160,7 @@
     ],
     "A6": [
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi A6 Sportback e-tron performance  270,00 kW  Advanced",
         "modelo_general": "A6",
@@ -172,8 +172,8 @@
     ],
     "Otros": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "NO ESTA",
         "modelo_general": "Otros",
         "chasis": "19",
@@ -182,8 +182,8 @@
         "color": ""
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "NO ESTA",
         "modelo_general": "Otros",
         "chasis": "2296",
@@ -192,8 +192,8 @@
         "color": ""
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "NO ESTA",
         "modelo_general": "Otros",
         "chasis": "8466",
@@ -204,8 +204,8 @@
     ],
     "Q2": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi Q2  35 TFSI  110(150) hp tiptronic Select",
         "modelo_general": "Q2",
         "chasis": "WAUAYAGA5RA007807",
@@ -216,8 +216,8 @@
     ],
     "Q3": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi Q3  35 TFSI  110(150) hp S tronic Dynamic",
         "modelo_general": "Q3",
         "chasis": "WAUBYAF37S1026789",
@@ -226,7 +226,17 @@
         "color": "Negro Mitos Metalizado"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
+        "km": "",
+        "modelo": "Audi Q3 Sportback 35 TFSI  110(150) hp S tronic Select",
+        "modelo_general": "Q3",
+        "chasis": "WAUAYAF39T1007206",
+        "anio": "2026.0",
+        "accesorios": "Asientos delanteros calefactables, Molduras exteriores en negro, Audi drive select, Black Edition, Paquete de confort",
+        "color": "Gris Cronos Metalizado"
+      },
+      {
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi Q3 Sportback 40 TFSI quattro 132(180) hp S tronic S line",
         "modelo_general": "Q3",
@@ -238,8 +248,8 @@
     ],
     "Q5": [
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi Q5  45 TFSI quattro 183(249) hp S tronic Elite",
         "modelo_general": "Q5",
         "chasis": "3U5AFCFY4S2045776",
@@ -248,8 +258,8 @@
         "color": "Negro Mitos"
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi Q5  45 TFSI quattro 183(249) hp S tronic Elite",
         "modelo_general": "Q5",
         "chasis": "3U5AFCFYXS2059505",
@@ -258,7 +268,7 @@
         "color": "Gris Cachemira Perla"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi Q5 SUV TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
@@ -268,8 +278,8 @@
         "color": "Gris Tambor"
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi Q5 Sportback 45 TFSI quattro 183(249) hp S tronic Select",
         "modelo_general": "Q5",
         "chasis": "3U5AFCFY2S2001565",
@@ -278,7 +288,7 @@
         "color": "Plata Florete metalizado"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi Q5 Sportback TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
@@ -288,8 +298,8 @@
         "color": "Blanco Glaciar metalizado"
       },
       {
-        "tipo": "A la venta",
-        "km": "",
+        "tipo": "Nuevo",
+        "km": "0.0",
         "modelo": "Audi Q5 Sportback TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
         "chasis": "3U5BKDGU8S2070035",
@@ -298,7 +308,7 @@
         "color": "Gris Tambor"
       },
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi Q5 Sportback TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
@@ -310,7 +320,7 @@
     ],
     "Q7": [
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi Q7 SUV  55 TFSI e quattro 290(394) hp tiptronic PHEV",
         "modelo_general": "Q7",
@@ -322,7 +332,7 @@
     ],
     "Sq5 Sportback": [
       {
-        "tipo": "Para manejar",
+        "tipo": "DEMO",
         "km": "",
         "modelo": "Audi SQ5 Sportback TFSI  270 kW S tronic",
         "modelo_general": "Sq5 Sportback",
