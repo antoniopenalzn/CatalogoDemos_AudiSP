@@ -14,7 +14,7 @@
         "color": "Plata Tausilber Metálico"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A1 Sportback 30 TFSI  85(116) hp S tronic Ego",
         "modelo_general": "A1",
@@ -66,7 +66,7 @@
         "color": "Verde Distrito Metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Dynamic",
         "modelo_general": "A3",
@@ -76,7 +76,7 @@
         "color": "Gris Flecha Perla"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Select",
         "modelo_general": "A3",
@@ -86,7 +86,7 @@
         "color": "Gris Manhattan metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A3 Sedan 35 TFSI  110 kW tiptronic Select",
         "modelo_general": "A3",
@@ -96,7 +96,7 @@
         "color": "Rojo Progresivo Metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A3 Sedan TFSI  110 kW tiptronic S line",
         "modelo_general": "A3",
@@ -106,7 +106,7 @@
         "color": "Blanco Arkona"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A3 Sportback TFSI  110 kW tiptronic Dynamic",
         "modelo_general": "A3",
@@ -128,7 +128,7 @@
         "color": "Gris Daytona efecto Perla"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic S line",
         "modelo_general": "A5",
@@ -138,7 +138,7 @@
         "color": "Gris Daytona efecto Perla"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic Select",
         "modelo_general": "A5",
@@ -148,7 +148,7 @@
         "color": "Plata Florete metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A5 Sedan TFSI  146 kW S tronic Select",
         "modelo_general": "A5",
@@ -160,7 +160,7 @@
     ],
     "A6": [
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi A6 Sportback e-tron performance  270,00 kW  Advanced",
         "modelo_general": "A6",
@@ -226,7 +226,7 @@
         "color": "Negro Mitos Metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi Q3 Sportback 35 TFSI  110(150) hp S tronic Select",
         "modelo_general": "Q3",
@@ -236,7 +236,7 @@
         "color": "Gris Cronos Metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi Q3 Sportback 40 TFSI quattro 132(180) hp S tronic S line",
         "modelo_general": "Q3",
@@ -268,7 +268,7 @@
         "color": "Gris Cachemira Perla"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi Q5 SUV TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
@@ -288,7 +288,7 @@
         "color": "Plata Florete metalizado"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi Q5 Sportback TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
@@ -308,7 +308,7 @@
         "color": "Gris Tambor"
       },
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi Q5 Sportback TFSI quattro 200 kW S tronic Elite",
         "modelo_general": "Q5",
@@ -320,7 +320,7 @@
     ],
     "Q7": [
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi Q7 SUV  55 TFSI e quattro 290(394) hp tiptronic PHEV",
         "modelo_general": "Q7",
@@ -332,7 +332,7 @@
     ],
     "Sq5 Sportback": [
       {
-        "tipo": "DEMO",
+        "tipo": "Demo",
         "km": "",
         "modelo": "Audi SQ5 Sportback TFSI  270 kW S tronic",
         "modelo_general": "Sq5 Sportback",
